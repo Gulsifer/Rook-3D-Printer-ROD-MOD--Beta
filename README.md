@@ -8,3 +8,6 @@ A custom build of the Rook 3D printer using linear rods.
 
 Youtube:
 https://youtube.com/@Gulsifer
+
+Patreon:
+https://www.patreon.com/Gulsifer
