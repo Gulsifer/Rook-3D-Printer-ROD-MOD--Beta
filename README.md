@@ -11,11 +11,11 @@
 ![Rook_Photo_Base](/images/Rook_ROD_MOD2.jpeg)
 
 
-## [Calibration Cube](/Rook-3D-Printer/Rook_Calibration_Cube)
+## [Calibration Cube](/Rook_Calibration_Cube/README.md)
 ![Picture of Calibration Cube](/Rook_Calibration_Cube/images/Calibration_Cube(1).png)
 
-## [Rook Tolerance Tower](/Rook-3D-Printer/Rook_Tolerance_Tower)
-![Picture of Tolerance Tower](/Rook_Tolerance_Tower/Calibration_TOWER.png)
+## [Rook Tolerance Tower](/Rook_Tolerance_Tower/README.md)
+![Picture of Tolerance Tower](/Rook_Tolerance_Tower/TOLERANCE_TOWER.png)
 
 ### Support my work!
 [Youtube](https://youtube.com/@Gulsifer)
